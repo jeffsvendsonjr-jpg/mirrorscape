@@ -1,4 +1,3 @@
-# mirrorscape
 # Mirrorscape
 
 ## A Self-Reflection, Not a Two-Way Mirror
